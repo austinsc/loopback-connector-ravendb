@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-ravendb",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Connect LoopBack to RavenDB",
   "main": "index.js",
   "scripts": {
