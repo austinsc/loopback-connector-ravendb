@@ -1,0 +1,34 @@
+{
+  "name": "loopback-connector-ravendb",
+  "version": "0.0.0",
+  "description": "Connect LoopBack to RavenDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinsc/loopback-connector-ravendb.git"
+  },
+  "keywords": [
+    "loopback",
+    "ravendb",
+    "juggler",
+    "loopback-connector",
+    "connector",
+    "crud",
+    "api"
+  ],
+  "author": "Stephen C. Austin (Arhaus Furniture)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinsc/loopback-connector-ravendb/issues"
+  },
+  "homepage": "https://github.com/austinsc/loopback-connector-ravendb",
+  "dependencies": {
+    "async": "^0.9.0",
+    "loopback-connector": "^1.1.1",
+    "ravendb": "0.0.25",
+    "underscore": "^1.6.0"
+  }
+}
